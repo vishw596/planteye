@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31C48D&center=true&vCenter=true&width=650&lines=🌱+PlantEye;Intelligent+Leaf+Disease+Detection;AI-Powered+%7C+Grad-CAM+Visualization" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31C48D&center=true&vCenter=true&width=650&lines=🌱+PlantEye;Intelligent+Leaf+Disease+Detection;AI-Powered+%7C+Grad-CAM+Visualization](https://cdn.pixabay.com/animation/2023/10/20/03/38/03-38-03-793_512.gif)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,3 +74,4 @@ User → Responsive Frontend → REST API → EfficientNetV2 Model → Grad-CAM 
 <p align="center">
   🌱 **PlantEye – Because every leaf tells a story.**
 </p>
+
