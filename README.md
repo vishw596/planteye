@@ -1,6 +1,9 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/10/20/03/38/03-38-03-793_512.gif" alt="Typing SVG" />
+ <img src="https://cdn.pixabay.com/animation/2023/10/20/03/38/03-38-03-793_512.gif"
+     width="100" height="100"
+     alt="animated gif">
+
 </p>
 
 <p align="center">
@@ -74,5 +77,6 @@ User → Responsive Frontend → REST API → EfficientNetV2 Model → Grad-CAM 
 <p align="center">
   🌱 **PlantEye – Because every leaf tells a story.**
 </p>
+
 
 
