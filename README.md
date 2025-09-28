@@ -27,9 +27,8 @@
 ---
 
 ## 🖼️ Live Demo
-<p align="center">
-  <img src="demo/leaf_scan.gif" alt="PlantEye Demo" width="80%"/>
-</p>
+
+**We are Working on this 😀**
 
 > Upload or capture a leaf photo → receive instant diagnosis and highlighted infection zones.
 
@@ -77,6 +76,7 @@ User → Responsive Frontend → REST API → EfficientNetV2 Model → Grad-CAM 
 <p align="center">
   🌱 **PlantEye – Because every leaf tells a story.**
 </p>
+
 
 
 
